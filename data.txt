@@ -1,0 +1,4 @@
+Saldo konta: 5.0
+Stan magazynu:
+Historia operacji:
+('saldo', 5.0)
